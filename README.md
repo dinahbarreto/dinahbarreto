@@ -1,7 +1,8 @@
 # Dinah Barreto
 
-Atualmente curso Análise e Desenvolvimento de Sistemas, com previsão de conclusão para o início de 2025, mas sou formada em Pedagogia, especialista em Psicopedagogia clínica e escolar e educação especial. 
+📊 Analista de Dados | DBA | Automação
 
+Atualmente curso Análise e Desenvolvimento de Sistemas (conclusão em 2025) e possuo formação em Pedagogia, com especialização em Psicopedagogia e Educação Especial. Tenho experiência em banco de dados, automação e análise de dados, utilizando SQL, Python, Power BI e Alteryx para transformar dados em inteligência estratégica.
 
 
 <div style="display: flex; align-items: center;">
