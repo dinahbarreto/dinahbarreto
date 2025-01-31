@@ -5,7 +5,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas, com previsão de conclu
 
 
 <div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/dinah-barreto-5b410524/" style="flex: 1;">
+    <a href="https://www.linkedin.com/in/dinah-barreto/" style="flex: 1;">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="5%">
     </a>
     <a href="https://www.instagram.com/dinahgbarreto/" style="flex: 1;">
